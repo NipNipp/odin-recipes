@@ -1,0 +1,40 @@
+body {
+    background: slategray;
+}
+
+
+h1 {
+    text-align: center;
+    padding: 0 10px;
+    margin: 0 auto;
+    /* width: 100%; */
+    background: seashell;
+    white-space: nowrap;
+    width: max-content;
+    
+}
+
+.title {
+    /* background: seashell; */
+    /* display: inline-block; */
+}
+
+.list li {
+    list-style: none;
+    margin-bottom: 25px;
+}
+
+.links {
+    background: white;
+    border: 2px solid black;
+    font-size: large;
+    padding: 8px 24px;
+    /* margin: auto; */
+    text-decoration: none;
+    display: inline;
+}
+
+#home {
+    position: relative;
+    top: 35px;
+}
